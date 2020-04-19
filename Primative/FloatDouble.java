@@ -14,14 +14,20 @@ public class FloatDouble {
     double doubleMinValue = Double.MIN_VALUE;
     double doubleMaxValue = Double.MAX_VALUE;
         System.out.println(doubleMinValue);
-        System.out.println(doubleMaxValue);
 
 
+    //Float & Double notation
+    int myInt = 5 / 3;
+    float myFloat = 5f / 3f;
+    double myDouble = 5.00 / 3.00;
+    System.out.println(myInt);
+    System.out.println(myFloat);
+    System.out.println(myDouble);
 
-        int myInt = 5;
-        float myFloat = 5.25f;
-        double myDouble = 5.25d;
 
-
+    //Fun Project
+    Double pounds = 5d;
+    Double kilograms = pounds *.45359237;
+    System.out.println(pounds + "lb is equal to " + kilograms +"kg");
     }
 }

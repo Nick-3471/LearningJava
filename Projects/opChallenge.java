@@ -14,7 +14,7 @@ public class opChallenge {
         double varMod = varTotal % 40.00d;
         System.out.println("The mod Var is " + varMod);
 
-        boolean varBool = varMod == 0 ? true : false; //System.out.println("VarMod is equal to 0") : System.out.println("VarMod is not  to 0");
+       //boolean varBool = varMod == 0 ? true : false; //System.out.println("VarMod is equal to 0") : System.out.println("VarMod is not  to 0");
 
         //Outputting if the the mod is 0 or not
         System.out.println((varMod == 0) ? "VarMod is equal to 0" : "VarMod is not  to 0");

@@ -1,4 +1,4 @@
-package Projects;
+package Examples;
 
 public class Operators {
     public static void main(String[] args) {
@@ -11,10 +11,13 @@ public class Operators {
         System.out.println(result);
 
         int previousReslut = result - 1;
-        // System.out.println(previousReslut);
+        System.out.println(previousReslut);
         
         result = result % 3;
         System.out.println("The total is " + result);
+
+
+         
 
     }
 }

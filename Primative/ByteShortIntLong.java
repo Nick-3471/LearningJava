@@ -37,6 +37,9 @@ public class ByteShortIntLong {
         byte myNewByte = (byte)(byteMaxValue/2);
         short myNewShort = (short)(shortMaxValue/2);
         long myNewLong = (myLongVaule /2);
+            System.out.println(myNewByte);
+            System.out.println(myNewShort);
+            System.out.println(myNewLong);
 
         byte myByte = 26;
         short myShort = 25497;

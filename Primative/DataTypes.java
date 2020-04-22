@@ -1,6 +1,5 @@
 package Primative;
 
-import java.text.NumberFormat.Style;
 
 public class DataTypes {
     public static void main(String[] args) {

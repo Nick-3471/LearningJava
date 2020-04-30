@@ -17,7 +17,7 @@ NOTES
 * The method printEqual needs to be defined as public static like we have been doing so far in the course.
 * Do not add main method to solution code.*/
 
-package Projects;
+package projects;
 
 public class EqualityPrinter {
     public static void main(String[] args) {

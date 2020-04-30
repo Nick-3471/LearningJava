@@ -25,7 +25,7 @@ NOTES
 * Do not add main method to solution code.
 * The solution will not be accepted if there are extra spaces */
 
-package Projects;
+package projects;
 
 public class MinToYearAndDay {
     public static void main(String[] args) {

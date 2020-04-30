@@ -19,7 +19,7 @@ NOTE: The shouldWakeUp method  needs to be defined as public static like we have
 NOTE: Do not add a  main method to solution code. */
 
 
-package Projects;
+package projects;
 
 public class BarkingDog {
     public static void main(String[] args) {

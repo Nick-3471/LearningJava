@@ -40,7 +40,7 @@
 // The Math.round() is a built-in math method which returns the closest long to the argument. The result is rounded to an integer by adding 1/2, taking the floor of the result after adding 1/2, and typecasting the result to type long. The method returns the value of the argument rounded to the nearest int value.
 
 
-package Projects;
+package projects;
 
 public class SpeedConverter {
     public static void main(String[] args) {

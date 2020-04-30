@@ -18,7 +18,7 @@ TIP: Be extremely careful about spaces in the printed message.
 TIP: 
 TIP: 1 MB = 1024 KB */
 
-package Projects;
+package projects;
 
 public class MegaBytesConverter {
     public static void main(String[] args) {

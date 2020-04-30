@@ -19,7 +19,7 @@ TIP: For PI use a constant from Math class e.g. Math.PI
 NOTE: All methods need to be defined as public static like we have been doing so far in the course.
 NOTE: Do not add a main method to your solution code! */
 
-package Projects;
+package projects;
 
 public class AreaCalc {
     public static void main(String[] args) {

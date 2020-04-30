@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"java.dependency.packagePresentation": "flat",
-		"java.dependency.syncWithFolderExplorer": true
+		"java.dependency.syncWithFolderExplorer": true,
+		"maven.view": "hierarchical"
 	}
 }

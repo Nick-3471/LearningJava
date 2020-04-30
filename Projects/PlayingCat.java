@@ -14,7 +14,7 @@ NOTES
 * The isCatPlaying method needs to be defined as public static like we have been doing so far in the course.
 * Do not add the main method to the solution code.  */
 
-package Projects;
+package projects;
 
 public class PlayingCat {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Projects;
+package projects;
 
 public class opChallenge {
     public static void main(String[] args) {
